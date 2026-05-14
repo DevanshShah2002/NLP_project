@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "2hop__790184_52135",
+    "question": "How many districts are there where JSL Singh was born?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was JSL Singh born?",
+      "How many districts are there in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__229724_85512",
+    "question": "When did the distributor of Applause announce the remastered release of Star Trek:The Original Series?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the distributor of Applause?",
+      "When did [answer_1] announce the remastered release of Star Trek: The Original Series?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__54758_446818",
+    "question": "who was the spouse of the politician that wrote the majority of the federalist papers?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who wrote the majority of the federalist papers?",
+      "Who was the spouse of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__152990_54580",
+    "question": "When was the astronomical clock in the city that Lucie Hradecká calls home built?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What city does Lucie Hradecká call home?",
+      "When was the astronomical clock in [answer_1] built?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__518585_32467",
+    "question": "How old are some of the private schools in the city that WVPB is licensed to broadcast to?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What city is WVPB licensed to broadcast to?",
+      "How old are some of the private schools in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__58756_125776",
+    "question": "Who was the father of Eine kleine nachtmusik's composer?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who composed Eine kleine Nachtmusik?",
+      "Who was the father of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__66935_827147",
+    "question": "Who is the sibling of the person saying all that glitters is not gold?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who said all that glitters is not gold?",
+      "Who is the sibling of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__39185_21326",
+    "question": "Who refuted the statement that the Queen was critical of the organization that St. Barts became a part of in 2012?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What organization did St. Barts become a part of in 2012?",
+      "Who refuted the statement that the Queen was critical of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__64083_74402",
+    "question": "When was the city, where the Winter Olympics will be in 2022, made the capital of China?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where will the Winter Olympics be held in 2022?",
+      "When was [answer_1] made the capital of China?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__116503_171433",
+    "question": "Who is the child of the director of Thalattu Ketkuthamma?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who directed Thalattu Ketkuthamma?",
+      "Who is the child of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__103747_71652",
+    "question": "What coalition won the 2018 general election in Eric Majimbun's country?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "Who is Eric Majimbun?",
+      "In which country is [answer_1] from?",
+      "What coalition won the 2018 general election in [answer_2]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__158864_657876",
+    "question": "The Embassy of Sweden in the city where most of the academies are located are found in what country?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which city are most of the academies located?",
+      "In which country is the Embassy of Sweden in [answer_1] located?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__105604_20314",
+    "question": "In what era did The Presbyterian Church, in the country where Born Invincible was produced, experience a large growth in members?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country was Born Invincible produced?",
+      "In what era did The Presbyterian Church in [answer_1] experience a large growth in members?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__149855_96331",
+    "question": "What character comes from the same book as Abraham Van Helsing?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What book does Abraham Van Helsing come from?",
+      "What characters are in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__725167_229413",
+    "question": "What was the language of the film A Kiss from the cast member of The Renunciation?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "Who are the cast members of The Renunciation?",
+      "Which cast member of [answer_1] was in the film A Kiss?",
+      "What was the language of the film A Kiss?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__143378_134827",
+    "question": "Who is the mother of the performer of Can I Get a Witness?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who performed Can I Get a Witness?",
+      "Who is the mother of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__813452_42548",
+    "question": "When did the winner of the 2005 Master Tournament win his last PGA tournament?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who won the 2005 Master Tournament?",
+      "When did [answer_1] last win a PGA tournament?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__68240_527576",
+    "question": "What is the record label of the owner of Cabo Wabo in Cabo San Lucas?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the owner of Cabo Wabo in Cabo San Lucas?",
+      "What is the record label of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__125546_196273",
+    "question": "What political party did the father of Harriet Hemings belong to?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who was the father of Harriet Hemings?",
+      "What political party did [answer_1] belong to?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__131724_58935",
+    "question": "When is the last time Auburn won in the city where Shaw Center for the Arts is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In what city is the Shaw Center for the Arts located?",
+      "When is the last time Auburn won in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__522166_559402",
+    "question": "Who was the wife of the singer on The Man from Utopia?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the singer on The Man from Utopia?",
+      "Who was the wife of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__533043_83854",
+    "question": "When did the country having Nyanzale become independent?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country is Nyanzale located?",
+      "When did [answer_1] become independent?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__478555_65075",
+    "question": "When was the last time a hurricane hit the state KTUH broadcasts in?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What state does KTUH broadcast in?",
+      "When was the last time a hurricane hit [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__155906_469474",
+    "question": "Where did Mok Kwai-lan's spouse die?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is Mok Kwai-lan's spouse?",
+      "Where did [answer_1] die?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__632354_500442",
+    "question": "Which county contains the birth city of Thomas Birkett?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What is the birth city of Thomas Birkett?",
+      "Which county contains [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__78593_24779",
+    "question": "When did the person who came up with the process of natural selection first use the word \"evolution\" in On the Origin of Species?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who came up with the process of natural selection?",
+      "When did [answer_1] first use the word 'evolution' in On the Origin of Species?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__144469_42255",
+    "question": "How high is the highest point in the city where Édouard de Reszke's was born?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was Édouard de Reszke born?",
+      "What is the height of the highest point in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__841813_34197",
+    "question": "How many people died as a result of the fighting betwen Armenia and the country encompassing Qobuqıraq?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What country encompasses Qobuqıraq?",
+      "How many people died as a result of the fighting between Armenia and [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__144364_43057",
+    "question": "When did the city where William Hanna was born become part of US?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was William Hanna born?",
+      "When did [answer_1] become part of the US?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__855510_36839",
+    "question": "How did the Japanese beat the country where Phison is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is Phison located?",
+      "How did Japan beat [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__36206_63835",
+    "question": "The basis of the organization that funded a waste management control plan on Tuvalu began with the signing of what?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What organization funded a waste management control plan on Tuvalu?",
+      "What event marked the beginning of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__343412_49441",
+    "question": "Who's the father of season 5 Blair pregnant in the show having Yes, Then Zero?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "What show is Yes, Then Zero from?",
+      "Who is Blair in the show from [answer_1]?",
+      "Who is the father of Blair's baby in season 5 of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__411673_853000",
+    "question": "What county shares a border with the one where the Mormon Tavern is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is the Mormon Tavern located?",
+      "What county shares a border with [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__6458_1063",
+    "question": "How many iPods did the creator of Safari reveal it sold in April of 2007?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the creator of Safari?",
+      "How many iPods did [answer_1] reveal were sold in April of 2007?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__657213_82827",
+    "question": "When did the performer of Just Whitney record The Greatest Love of All?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the performer of Just Whitney?",
+      "When did [answer_1] record The Greatest Love of All?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__37497_91206",
+    "question": "What is the pyramid building, in the city where Chen lived in 2005?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which city did Chen live in 2005?",
+      "What is the pyramid building in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__158641_31210",
+    "question": "What influential educator came from the country where motorsport was banned after 1955?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country was motorsport banned after 1955?",
+      "What influential educator came from [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__96955_155490",
+    "question": "When did the organization that gives out the Frank P. Brown Medal open?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What organization gives out the Frank P. Brown Medal?",
+      "When did [answer_1] open?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__165645_711500",
+    "question": "Of which country was the performer of Twist the Truth a citizen?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who performed Twist the Truth?",
+      "Of which country was [answer_1] a citizen?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__69223_62851",
+    "question": "Who helped resolve the dispute between Virginia and the state the Navy Football team is from?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What state is the Navy Football team from?",
+      "Who helped resolve the dispute between Virginia and [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__23787_632017",
+    "question": "Who is the child of the President who made their stance on affirmative action clear in 1995?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Which President made their stance on affirmative action clear in 1995?",
+      "Who is the child of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__146470_85890",
+    "question": "When was free education introduced in the place Jeanne Hoban died?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where did Jeanne Hoban die?",
+      "When was free education introduced in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__809579_134827",
+    "question": "Who is the mother of the Far Cry singer?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the Far Cry singer?",
+      "Who is the mother of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__8460_8477",
+    "question": "What piece, by the composer who expanded the single reeds' role, is used as a cliché to convey refinement?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Which composer expanded the single reeds' role?",
+      "What piece by [answer_1] is used as a cliché to convey refinement?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__444262_69322",
+    "question": "How many Grammys does the performer of I Look to You have?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the performer of I Look to You?",
+      "How many Grammys does [answer_1] have?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__370152_79705",
+    "question": "What is the enrollment at the school that employs James F. Bell, III?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What school employs James F. Bell, III?",
+      "What is the enrollment at [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__21806_37771",
+    "question": "What did the person responsible for Two Treatises of Government use as a basis for his political beliefs?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the person responsible for Two Treatises of Government?",
+      "What did [answer_1] use as a basis for his political beliefs?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__130422_84859",
+    "question": "In terms of wind energy production, what is the rank for the state where Wartburg College is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is Wartburg College located?",
+      "What is the rank of [answer_1] in terms of wind energy production?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__285008_62302",
+    "question": "Who scored the first goal for Ryan Bertrand's team last season?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Which team does Ryan Bertrand play for?",
+      "Who scored the first goal for [answer_1] last season?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__156830_89953",
+    "question": "Where is Nick Anstead's job located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What is Nick Anstead's job?",
+      "Where is [answer_1] located?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__316585_162253",
+    "question": "When was the brand opened in the birthplace of Igor Lazko?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which city was Igor Lazko born?",
+      "When was the brand opened in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__767731_737459",
+    "question": "Who is the father of God's performer?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is God's performer?",
+      "Who is the father of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__216409_154727",
+    "question": "In what year did the conflict the Battle of Khafji was part of start?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What conflict was the Battle of Khafji part of?",
+      "In what year did [answer_1] start?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__188865_57623",
+    "question": "Who wrote the national anthem of the country where Inagua National Park is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country is Inagua National Park located?",
+      "Who wrote the national anthem of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__106852_123863",
+    "question": "What date the Battle of the country All About Women is from end?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Which country is the setting of the movie All About Women?",
+      "What is the end date of the Battle that took place in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__510925_75878",
+    "question": "What documentary describes the making of Number of the Beast by the performer of Virus?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the performer of Virus?",
+      "What documentary describes the making of Number of the Beast by [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__819600_160798",
+    "question": "Who was the ninth governor-general in the country where Boridi is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country is Boridi located?",
+      "Who was the ninth governor-general of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__798439_64689",
+    "question": "In what part of California is Russian River Brewing Company located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is Russian River Brewing Company located?",
+      "What part of California is [answer_1] in?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__129351_51122",
+    "question": "When did the state where Keedy House is make Anglicanism its established religion?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state is Keedy House located?",
+      "When did [answer_1] make Anglicanism its established religion?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__50842_71664",
+    "question": "Who is the king singing to in the show named for the person whose writings in The Federalist Papers is used to support the use of judicial review?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "What person's writings in The Federalist Papers is used to support the use of judicial review?",
+      "What is the name of the show named after [answer_1]?",
+      "Who is the king singing to in the show [answer_2]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__25478_44163",
+    "question": "What was the name of the hurricane that hit the country where groups not from the U.S. came from in The Sing-Off?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "What groups not from the U.S. competed in The Sing-Off?",
+      "Which country were [answer_1] from?",
+      "What was the name of the hurricane that hit [answer_2]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__828806_37261",
+    "question": "What is the name of the mosaic in the church located where Bewized formed?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "Where was Bewized formed?",
+      "What church is located in [answer_1]?",
+      "What is the name of the mosaic in [answer_2]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__62588_20724",
+    "question": "What was the origin of the paternal grandparents of the pop star who played Evita in the movie of the same name?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who played Evita in the movie of the same name?",
+      "What was the origin of the paternal grandparents of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__435214_71859",
+    "question": "When did it snow in the county where North Redington Beach is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which county is North Redington Beach located?",
+      "When did it snow in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__452695_10369",
+    "question": "Who was the first president of the country containing Hemed?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What country contains Hemed?",
+      "Who was the first president of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__108851_863816",
+    "question": "Where was the home of the creator of The Flageolet Player on the Cliff when he died?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who created The Flageolet Player on the Cliff?",
+      "Where was [answer_1] when he died?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__861128_1136",
+    "question": "What year did the publisher of Banjo-Tooie reveal the development of Twilight Princess?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the publisher of Banjo-Tooie?",
+      "In what year did [answer_1] reveal the development of Twilight Princess?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__754221_64214",
+    "question": "Who did the performer of This Song write the song Something for?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the performer of This Song?",
+      "Who did [answer_1] write the song Something for?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__131372_85808",
+    "question": "Akron, in the state where the Georg Cronenwett House is located, has a golf tournament when?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state is the Georg Cronenwett House located?",
+      "When is the golf tournament held in Akron, [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__502793_420644",
+    "question": "What conflict did the star of As Good as Married star in a movie about?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What movie starred the star of As Good as Married?",
+      "What conflict was [answer_1] about?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__5330_5359",
+    "question": "When did the largest city in Oklahoma experience the most rainfall?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What is the largest city in Oklahoma?",
+      "When did [answer_1] experience the most rainfall?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__77965_22347",
+    "question": "What is the largest lake in the country where the characters in Sound of Music escaped to?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country did the characters in Sound of Music escape to?",
+      "What is the largest lake in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__464469_378383",
+    "question": "To which jurisdiction does the flag of the country where Bahamas Maritime Authority is based apply?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is the Bahamas Maritime Authority based?",
+      "To which jurisdiction does the flag of [answer_1] apply?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__103868_55731",
+    "question": "Who was the oppressive communist leader deposed in 1989 of the country where Simona Spiridon came from?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What country did Simona Spiridon come from?",
+      "Who was the oppressive communist leader of [answer_1] that was deposed in 1989?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__132953_464098",
+    "question": "Who founded the company that built the AMR 35?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What company built the AMR 35?",
+      "Who founded [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__130635_160300",
+    "question": "what rank is the state Florewood State Park is located in population?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state is Florewood State Park located?",
+      "What is the population rank of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__419688_3001",
+    "question": "In what season was the performer of Encore a guest judge on American Idol?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who performed Encore?",
+      "In what season was [answer_1] a guest judge on American Idol?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__352446_18378",
+    "question": "Why did the author of With the Century redeploy his military troops?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the author of With the Century?",
+      "Why did [answer_1] redeploy his military troops?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__600895_126060",
+    "question": "Who is currently in charge of the city where Katie Reider was born?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was Katie Reider born?",
+      "Who is currently in charge of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__27742_27737",
+    "question": "How many private schools are in the region where Rogers Cable's provincial headquarter is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is Rogers Cable's provincial headquarters located?",
+      "How many private schools are in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__129267_639038",
+    "question": "What county contains the community of Shady Grove, in the state where Gracehill Moravian Church and Cemetery is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state is the Gracehill Moravian Church and Cemetery located?",
+      "What county contains the community of Shady Grove in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__450640_13292",
+    "question": "The performer of Take It So Hard is the guitarist of what band?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who performed Take It So Hard?",
+      "What band is [answer_1] the guitarist of?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__2938_2913",
+    "question": "How may adherents does the sutras reserved for those who follow the bodhisattva path have?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What are the sutras reserved for those who follow the bodhisattva path?",
+      "How many adherents do [answer_1] have?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__9497_4659",
+    "question": "When World War II started, who was the leader of the country where the Battle of Riva Ridge was fought?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was the Battle of Riva Ridge fought?",
+      "Who was the leader of [answer_1] when World War II started?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__706527_559402",
+    "question": "Who was married to the performer of Joe's Garage?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who performed Joe's Garage?",
+      "Who was married to [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__161529_64338",
+    "question": "Who is the general manager of the team called the Lakers, from the city where Deckard was arrested?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "In which city was Deckard arrested?",
+      "What team called the Lakers is from [answer_1]?",
+      "Who is the general manager of the [answer_1] Lakers?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__674688_21032",
+    "question": "What did the author of Freedom from Fear become a part of in Burma?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the author of Freedom from Fear?",
+      "What did [answer_1] become a part of in Burma?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__226930_737459",
+    "question": "Who is the father of the composer of the songs in the film Imagine?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who composed the songs in the film Imagine?",
+      "Who is the father of [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__254791_82827",
+    "question": "When was The Greatest Love of All recorded by the singer of Whatchulookinat?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the singer of Whatchulookinat?",
+      "When was The Greatest Love of All recorded by [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__244128_558469",
+    "question": "What city holds the Consulate General of the United States, in the area where Arven was formed?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where was Arven formed?",
+      "In which city is the Consulate General of the United States located in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__723467_261338",
+    "question": "Who performed the song named after the country where Carrao-tepui is located?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Where is Carrao-tepui located?",
+      "Who performed the song named after [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__274688_23198",
+    "question": "How many states does the country containing Nkwerre have?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which country is Nkwerre located?",
+      "How many states does [answer_1] have?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__849701_159045",
+    "question": "When was the creator of Dusk born?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What is the creator of Dusk?",
+      "When was [answer_1] born?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__841492_31102",
+    "question": "When did the author of Introduction to Mathematical Philosophy die?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the author of Introduction to Mathematical Philosophy?",
+      "When did [answer_1] die?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__13686_13665",
+    "question": "With the Patriot Act, what new residential powers were acquired by the domestic intelligence and security service for the U.S.?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "What domestic intelligence and security service is responsible for the U.S.?",
+      "What new residential powers were acquired by [answer_1] with the Patriot Act?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__510626_269657",
+    "question": "What family does Joachim II Hector, the elector of the where Blumenthal Observation Tower is located, belong to?",
+    "subquestion_count": 3,
+    "subquestions": [
+      "Where is the Blumenthal Observation Tower located?",
+      "Who was the elector of [answer_1]?",
+      "What family does [answer_2] belong to?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__282782_51612",
+    "question": "Who did the performer of I Hope You Find It play in Hannah Montana?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who is the performer of I Hope You Find It?",
+      "What role did [answer_1] play in Hannah Montana?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__840939_92189",
+    "question": "Where are the badlands located in the the birth state of Philip Testerman?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state was Philip Testerman born?",
+      "Where are the badlands located in [answer_1]?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__226582_79562",
+    "question": "When was the employer of Sir Thomas Metcalafe, 4th Baronet, established?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "Who was the employer of Sir Thomas Metcalfe, 4th Baronet?",
+      "When was [answer_1] established?"
+    ],
+    "error": null
+  },
+  {
+    "id": "2hop__144364_68900",
+    "question": "When does monsoon season end in the state William Hanna was born?",
+    "subquestion_count": 2,
+    "subquestions": [
+      "In which state was William Hanna born?",
+      "When does monsoon season end in [answer_1]?"
+    ],
+    "error": null
+  }
+]
