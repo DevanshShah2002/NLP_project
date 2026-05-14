@@ -115,3 +115,10 @@ JUDGE_MODEL=llama-3.3-70b-instruct-awq
 | Phase | Questions | EM | F1 |
 |---|---|---|---|
 | Phase 3 (Full Dataset) | 19,938 (2–4 hop) | **0.450** | **0.561** |
+
+## Important Notes:
+
+`phase1/musique_ans_v1.0_train.jsonl` is not included due to size (~241MB).  
+Download it from the [MuSiQue dataset](musique_ans_v1.0_train) and place it in `phase1/`.
+
+`phase3/phase3_results_all.json` (~89MB) is excluded from the repo.  
