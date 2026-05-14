@@ -2,6 +2,13 @@
 
 An end-to-end **Adaptive Retrieval-Augmented Generation** pipeline for multi-hop question answering on the [MuSiQue](https://arxiv.org/abs/2108.00573) dataset. The pipeline decomposes complex questions into sequential sub-questions, retrieves relevant paragraphs at each step, and synthesises a final answer using a Llama 3.3 70B reader model.
 
+## Important Notes:
+
+`phase1/musique_ans_v1.0_train.jsonl` is not included due to size (~241MB).  
+Download it from the [MuSiQue dataset](musique_ans_v1.0_train) and place it in `phase1/`.
+
+`phase3/phase3_results_all.json` (~89MB) is excluded from the repo.  
+
 ---
 
 ## Folder Structure
@@ -116,9 +123,4 @@ JUDGE_MODEL=llama-3.3-70b-instruct-awq
 |---|---|---|---|
 | Phase 3 (Full Dataset) | 19,938 (2–4 hop) | **0.450** | **0.561** |
 
-## Important Notes:
 
-`phase1/musique_ans_v1.0_train.jsonl` is not included due to size (~241MB).  
-Download it from the [MuSiQue dataset](musique_ans_v1.0_train) and place it in `phase1/`.
-
-`phase3/phase3_results_all.json` (~89MB) is excluded from the repo.  
