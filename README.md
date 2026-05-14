@@ -5,7 +5,7 @@ An end-to-end **Adaptive Retrieval-Augmented Generation** pipeline for multi-hop
 ## Important Notes:
 
 `phase1/musique_ans_v1.0_train.jsonl` is not included due to size (~241MB).  
-Download it from the [MuSiQue dataset](musique_ans_v1.0_train) and place it in `phase1/`.
+Download it from the [MuSiQue dataset](https://www.kaggle.com/datasets/ntluongg/musique) and place it in `phase1/`.
 
 `phase3/phase3_results_all.json` (~89MB) is excluded from the repo.  
 
