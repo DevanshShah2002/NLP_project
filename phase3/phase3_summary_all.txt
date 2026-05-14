@@ -1,0 +1,137 @@
+======================================================================
+PHASE 3 — ADAPTIVE RAG FULL PIPELINE RESULTS  [ALL BATCHES MERGED]
+Total processed: 19938  |  Total skipped: 0  |  Batches: 33
+======================================================================
+
+── Batch inventory ──
+
+  File                                          |  Count | Skipped
+  --------------------------------------------------------------
+  phase3_results_0-1000.json                    |   1000 |       0
+  phase3_results_1000-2000.json                 |   1000 |       0
+  phase3_results_2000-3000.json                 |   1000 |       0
+  phase3_results_3000-4000.json                 |   1000 |       0
+  phase3_results_4000-5000.json                 |   1000 |       0
+  phase3_results_5000-6000.json                 |   1000 |       0
+  phase3_results_6000-7000.json                 |   1000 |       0
+  phase3_results_7000-7500.json                 |    500 |       0
+  phase3_results_7500-8000.json                 |    500 |       0
+  phase3_results_8000-8500.json                 |    500 |       0
+  phase3_results_8500-9000.json                 |    500 |       0
+  phase3_results_9000-9500.json                 |    500 |       0
+  phase3_results_9500-10000.json                |    500 |       0
+  phase3_results_10000-10500.json               |    500 |       0
+  phase3_results_10500-11000.json               |    500 |       0
+  phase3_results_11000-11500.json               |    500 |       0
+  phase3_results_11500-12000.json               |    500 |       0
+  phase3_results_12000-12500.json               |    500 |       0
+  phase3_results_12500-13000.json               |    500 |       0
+  phase3_results_13000-13500.json               |    500 |       0
+  phase3_results_13500-14000.json               |    500 |       0
+  phase3_results_14000-14500.json               |    500 |       0
+  phase3_results_14500-15000.json               |    500 |       0
+  phase3_results_15000-15500.json               |    500 |       0
+  phase3_results_15500-16000.json               |    500 |       0
+  phase3_results_16000-16500.json               |    500 |       0
+  phase3_results_16500-17000.json               |    500 |       0
+  phase3_results_17000-17500.json               |    500 |       0
+  phase3_results_17500-18000.json               |    500 |       0
+  phase3_results_18000-18500.json               |    500 |       0
+  phase3_results_18500-19000.json               |    500 |       0
+  phase3_results_19000-19500.json               |    500 |       0
+  phase3_results_19500-20000.json               |    438 |       0
+  --------------------------------------------------------------
+  TOTAL                                         |  19938 |       0
+
+── Per-Hop Metrics ──
+
+  Hop    |     N |     EM |     F1 |   Prec | Recall |  J.Acc | J.Comp |      NOT_FOUND
+  -------------------------------------------------------------------------------------
+  2hop   | 14376 |  0.485 |  0.595 |  0.584 |  0.655 |   66.6 |   87.8 |  2492 (17.3%)
+  3hop1  |  3737 |  0.346 |  0.468 |  0.456 |  0.537 |   55.7 |   85.0 |   837 (22.4%)
+  3hop2  |   650 |  0.405 |  0.475 |  0.460 |  0.537 |   57.4 |   84.8 |   149 (22.9%)
+  4hop1  |   648 |  0.319 |  0.445 |  0.428 |  0.521 |   51.1 |   84.5 |   150 (23.1%)
+  4hop2  |   127 |  0.315 |  0.452 |  0.421 |  0.560 |   54.6 |   76.6 |    35 (27.6%)
+  4hop3  |   400 |  0.487 |  0.573 |  0.556 |  0.634 |   64.9 |   84.6 |    93 (23.2%)
+  ─────────────────────────────────────────────────────────────────────────────────────
+  TOTAL  | 19938 |  0.450 |  0.561 |  0.549 |  0.623 |   63.7 |   86.9 |
+
+── Per-Hop Detailed Breakdown ──
+
+  [2hop]  n=14376  EM=0.485  F1=0.595  correct=6973  NOT_FOUND=2492  wrong=4911
+    Steps=32228  supp_hit=30016/32228 (93.1%)  inter_NF=3786/32228 (11.7%)  retry=7463/32228 (23.2%)  refined=1016/32228 (3.2%)
+
+  [3hop1]  n=3737  EM=0.346  F1=0.468  correct=1294  NOT_FOUND=837  wrong=1606
+    Steps=11636  supp_hit=10717/11636 (92.1%)  inter_NF=1798/11636 (15.5%)  retry=3566/11636 (30.6%)  refined=455/11636 (3.9%)
+
+  [3hop2]  n=650  EM=0.405  F1=0.475  correct=263  NOT_FOUND=149  wrong=238
+    Steps=2112  supp_hit=1914/2112 (90.6%)  inter_NF=256/2112 (12.1%)  retry=571/2112 (27.0%)  refined=75/2112 (3.6%)
+
+  [4hop1]  n=648  EM=0.319  F1=0.445  correct=207  NOT_FOUND=150  wrong=291
+    Steps=2493  supp_hit=2318/2493 (93.0%)  inter_NF=391/2493 (15.7%)  retry=832/2493 (33.4%)  refined=106/2493 (4.3%)
+
+  [4hop2]  n=127  EM=0.315  F1=0.452  correct=40  NOT_FOUND=35  wrong=52
+    Steps=486  supp_hit=420/486 (86.4%)  inter_NF=108/486 (22.2%)  retry=225/486 (46.3%)  refined=23/486 (4.7%)
+
+  [4hop3]  n=400  EM=0.487  F1=0.573  correct=195  NOT_FOUND=93  wrong=112
+    Steps=1514  supp_hit=1414/1514 (93.4%)  inter_NF=196/1514 (12.9%)  retry=434/1514 (28.7%)  refined=56/1514 (3.7%)
+
+── F1 Distribution ──
+
+  F1=0.00        (none):   6837 ( 34.3%)  ██████████████████████████████████████████████████
+  F1=0.01–0.29   (low):    676 (  3.4%)  ██████
+  F1=0.30–0.59   (partial):   1673 (  8.4%)  ████████████████
+  F1=0.60–0.99   (close):   1766 (  8.9%)  █████████████████
+  F1=1.00        (exact):   8986 ( 45.1%)  ██████████████████████████████████████████████████
+
+── Error Analysis ──
+
+  EM=1 correct              :   8972 (45.0%)
+  EM=0 wrong                :  10966 (55.0%)
+    ↳ Final NOT FOUND       :   3756 (18.8%)
+    ↳ Wrong answer          :   7210 (36.2%)
+  Total reasoning steps     :  50469
+  Intermediate NOT FOUND    :   6535/50469 (12.9%)
+  Steps with retry (>1 att) :  13091/50469 (25.9%)
+  Steps with refinement     :   1731/50469 (3.4%)
+
+── Retrieval Quality ──
+
+  Steps with ≥1 supporting para :  46799/50469 (92.7%)
+  Steps with NO supporting para  :   3670/50469 (7.3%)
+
+── Accuracy by k (RAG Steps) ──
+
+    k |  correct |   total |     EM%
+  ───────────────────────────────────
+    1 |       24 |     149 |   16.1%
+    2 |     5664 |   11287 |   50.2%
+    3 |     2606 |    6612 |   39.4%
+    4 |      612 |    1660 |   36.9%
+    5 |       52 |     185 |   28.1%
+    6 |        9 |      33 |   27.3%
+    7 |        2 |       3 |   66.7%
+    8 |        0 |       2 |    0.0%
+    9 |        0 |       1 |    0.0%
+   10 |        0 |       1 |    0.0%
+   12 |        0 |       1 |    0.0%
+   14 |        1 |       2 |   50.0%
+   18 |        1 |       1 |  100.0%
+   33 |        1 |       1 |  100.0%
+
+======================================================================
+Total: 19938 questions  |  Skipped: 0  |  Batches merged: 33
+======================================================================
+
+============================================================
+  COST SUMMARY
+============================================================
+  Answering LLM calls per query : 3.275
+  Judge LLM call per query      : 1.000  (at minimum)
+  ─────────────────────────────────────────
+  Total LLM calls per query     : ~4.275
+
+  Retry overhead                : 29.4% of all step executions
+  Without retries would be      : 2.531 answering calls/query
+  Retry cost added              : +0.743 calls/query
+============================================================
